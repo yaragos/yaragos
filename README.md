@@ -21,6 +21,6 @@
   <img alt="Yaragos's github activity graph" src="github-snake.svg" />
 </picture>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/yaragos/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+**You are my** ![Visitor Count](https://profile-counter.glitch.me/yaragos/count.svg) **.th visitor!** 😘😘
 
 ![](assets/Bottom_down.svg)
