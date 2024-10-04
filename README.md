@@ -14,8 +14,13 @@
 
 
 <!--   green snake -->
-![Yaragos's github activity graph](https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake.svg)
+<!-- ![Yaragos's github activity graph](https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake.svg" />
+  <img alt="Yaragos's github activity graph" src="github-snake.svg" />
+</picture>
 
-![Visitor Count](https://profile-counter.glitch.me/yaragos/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/yaragos/count.svg).th visitor.:kissing_heart::kissing_heart:
 
 ![](assets/Bottom_down.svg)
