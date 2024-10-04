@@ -16,8 +16,8 @@
 <!--   green snake -->
 <!-- ![Yaragos's github activity graph](https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake.svg) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaragos/yaragos/output/github-snake.svg" />
   <img alt="Yaragos's github activity graph" src="github-snake.svg" />
 </picture>
 
